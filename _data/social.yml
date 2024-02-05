@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://chankyu04@kaist.ac.kr
+  icon: fas fa-envelope
+# - title: Twitter
+#   url: https://twitter.com/
+#   icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/framewolf
+  icon: fab fa-github
